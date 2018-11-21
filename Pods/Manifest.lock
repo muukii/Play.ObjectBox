@@ -1,0 +1,20 @@
+PODS:
+  - ObjectBox (0.5.1):
+    - Sourcery
+  - Sourcery (0.15.0)
+
+DEPENDENCIES:
+  - ObjectBox
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ObjectBox
+    - Sourcery
+
+SPEC CHECKSUMS:
+  ObjectBox: 106d917b09df4c49ef190e26ad0f17b8a702cb14
+  Sourcery: 5895672cae353cdbfa95f3f4aaeb75a664d76f6a
+
+PODFILE CHECKSUM: a6c360daacfea321ec1e238747b31fff589fc837
+
+COCOAPODS: 1.6.0.beta.2
